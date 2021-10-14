@@ -1,8 +1,0 @@
-Place Order
-	 1 check current cart then confirm order
-	 2 sys check if there are anavalable products in customer's list
-	 3 sys ask customer to fix number of ordered product if  there  are any product are not enough
-	 4 sys ask customer for dilivery infor and deliverry instruction
-	 5 sys ask customer pay order by credit card 
-	 6 if pay order successfully ,sys will send successful annoucement  
-	 
